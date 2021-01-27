@@ -352,7 +352,7 @@ const gID = () => {
      <Col span={6} className='info'>
      <Image
             width={220}
-            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/79451546_3058864351005230_4509966735998189568_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=O59O_uf-7V0AX_MG01r&_nc_ht=scontent.fvca1-1.fna&oh=b6d6d25efb2e3bf695154980216b05c1&oe=5FB78BBA"
+            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/141027165_3484082521816742_6552506414995593971_o.jpg?_nc_cat=101&ccb=2&_nc_sid=0debeb&_nc_ohc=o_g6_FNN3xoAX9ZXAYY&_nc_ht=scontent.fvca1-2.fna&oh=3ce69f5b878a58314a60fcf87d339ec7&oe=60357A5D"
           />
      </Col>
      </Row>
