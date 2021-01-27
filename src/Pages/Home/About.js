@@ -84,7 +84,7 @@ export const About = () => {
         <Col  className="info">
           <Image
             width={200}
-            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/79451546_3058864351005230_4509966735998189568_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=O59O_uf-7V0AX_MG01r&_nc_ht=scontent.fvca1-1.fna&oh=b6d6d25efb2e3bf695154980216b05c1&oe=5FB78BBA"
+            src="https://photos.app.goo.gl/jyXPRGbVgTCKyGyX6"
           />
           <br />
           <strong>
@@ -94,7 +94,7 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/97993543_1175031346162040_4962050621298442240_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_ohc=PnnxmhR6vkQAX-L6Lkk&_nc_ht=scontent.fvca1-1.fna&oh=a6180db9bcefb2867bcd4d403bdc54ee&oe=5FB99CD7"
+            src="https://photos.app.goo.gl/cHjZEDwgX42AaGen9"
           />
           <br />
           <strong>
@@ -106,7 +106,7 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/40515567_2192832774325937_6613797440208240640_o.jpg?_nc_cat=105&ccb=2&_nc_sid=0debeb&_nc_ohc=o_RkCjIMMY4AX9NrsdI&_nc_ht=scontent.fvca1-1.fna&oh=c45e8e2f494bc95e915e685093fab031&oe=5FB802BB"
+            src="https://photos.app.goo.gl/FNQjVq5PaYJrCyL39"
           />
           <br />
           <strong>
@@ -118,7 +118,7 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/43109625_464907613997803_2615802350765342720_o.jpg?_nc_cat=101&ccb=2&_nc_sid=174925&_nc_ohc=Ho3J08SHGnQAX8aArRe&_nc_ht=scontent.fvca1-2.fna&oh=79a624a368231db95201288503908a22&oe=5FB9526F"
+            src="https://photos.app.goo.gl/nwjE6L5z8H1Pnswn8"
           />
           <br />
           <strong>
