@@ -96,7 +96,7 @@ export const About = () => {
           <Image
             width={200}
             // src="https://photos.app.goo.gl/cHjZEDwgX42AaGen9"
-            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/141048146_3484082571816737_6476665111340637646_n.jpg?_nc_cat=100&ccb=2&_nc_sid=0debeb&_nc_ohc=ZE8oVf-_ZigAX_n89-_&_nc_ht=scontent.fvca1-2.fna&oh=c38ba0e709e2af78f936143941787632&oe=60374D7F"
+            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/143003042_3484189898472671_2845780019124367011_o.jpg?_nc_cat=104&ccb=2&_nc_sid=0debeb&_nc_ohc=KSUWQeS61v8AX-x8BCQ&_nc_ht=scontent.fvca1-2.fna&oh=50a45ba9750b061a24c637fb18da7060&oe=60371698"
           />
           <br />
           <strong>
