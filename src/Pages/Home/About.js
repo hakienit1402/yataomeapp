@@ -84,7 +84,8 @@ export const About = () => {
         <Col  className="info">
           <Image
             width={200}
-            src="https://photos.app.goo.gl/jyXPRGbVgTCKyGyX6"
+            // src="https://photos.app.goo.gl/jyXPRGbVgTCKyGyX6"
+            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/79451546_3058864351005230_4509966735998189568_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=Ab5thLRoIagAX8aAIje&_nc_ht=scontent.fvca1-1.fna&oh=ff2d59b191f6e5201588d7119c742acb&oe=60361BBA"
           />
           <br />
           <strong>
