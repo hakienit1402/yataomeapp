@@ -85,7 +85,7 @@ export const About = () => {
           <Image
             width={200}
             // src="https://photos.app.goo.gl/jyXPRGbVgTCKyGyX6"
-            src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/79451546_3058864351005230_4509966735998189568_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=Ab5thLRoIagAX8aAIje&_nc_ht=scontent.fvca1-1.fna&oh=ff2d59b191f6e5201588d7119c742acb&oe=60361BBA"
+            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/141027165_3484082521816742_6552506414995593971_o.jpg?_nc_cat=101&ccb=2&_nc_sid=0debeb&_nc_ohc=o_g6_FNN3xoAX9ZXAYY&_nc_ht=scontent.fvca1-2.fna&oh=3ce69f5b878a58314a60fcf87d339ec7&oe=60357A5D"
           />
           <br />
           <strong>
@@ -95,7 +95,8 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://photos.app.goo.gl/cHjZEDwgX42AaGen9"
+            // src="https://photos.app.goo.gl/cHjZEDwgX42AaGen9"
+            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/141048146_3484082571816737_6476665111340637646_n.jpg?_nc_cat=100&ccb=2&_nc_sid=0debeb&_nc_ohc=ZE8oVf-_ZigAX_n89-_&_nc_ht=scontent.fvca1-2.fna&oh=c38ba0e709e2af78f936143941787632&oe=60374D7F"
           />
           <br />
           <strong>
@@ -107,7 +108,7 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://photos.app.goo.gl/FNQjVq5PaYJrCyL39"
+            src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/141589035_3484082528483408_7798999355879976581_o.jpg?_nc_cat=100&ccb=2&_nc_sid=0debeb&_nc_ohc=aHBVjz4RVoAAX8a0HKC&_nc_ht=scontent.fvca1-2.fna&oh=b83545a7e14faa393d800f587241033e&oe=6036BB65"
           />
           <br />
           <strong>
@@ -119,7 +120,7 @@ export const About = () => {
         <Col className="info">
           <Image
             width={200}
-            src="https://photos.app.goo.gl/nwjE6L5z8H1Pnswn8"
+            src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/143639069_3484082501816744_1848686676182843184_o.jpg?_nc_cat=110&ccb=2&_nc_sid=0debeb&_nc_ohc=NGX_PWNcPsQAX90b5hS&_nc_ht=scontent.fdad2-1.fna&oh=9c15099969628d47b6a7bf675937bd65&oe=603578D0"
           />
           <br />
           <strong>
