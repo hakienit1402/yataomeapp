@@ -81,7 +81,7 @@ export const About = () => {
         Group 12 - Noob Boy
       </Divider>
       <Row className="about">
-        <Col>
+        <Col  className="info">
           <Image
             width={200}
             src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.0-9/79451546_3058864351005230_4509966735998189568_o.jpg?_nc_cat=106&ccb=2&_nc_sid=09cbfe&_nc_ohc=O59O_uf-7V0AX_MG01r&_nc_ht=scontent.fvca1-1.fna&oh=b6d6d25efb2e3bf695154980216b05c1&oe=5FB78BBA"
